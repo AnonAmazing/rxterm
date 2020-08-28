@@ -1,4 +1,4 @@
-# RxTerm ⚡⌨️
+# RxTerm - Windows Support ⚡⌨️
 
 A C++ library for functional-reactive terminals. RxTerm is a lean alternative to ncurses for many applications.
 
@@ -38,6 +38,6 @@ Refer to `rxterm/apps/main.cpp` for an example.
  * [x] Reusable components
  * [ ] Managed console input
  * [ ] Terminal width detection
- * [ ] Windows support
+ * [ ] Windows support //on progress
 
 Contributions are very welcome! 💖
